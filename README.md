@@ -29,7 +29,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhammedKAldin&show_icons=true&theme=tokyonight&count_private=true)
 
-## Connect with me:
+## ❤ Connect with me:
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/mohamed-kamal-117026221/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
