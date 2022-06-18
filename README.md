@@ -18,7 +18,6 @@
   </g-emoji> 
   Desktop Software development
  </li>
-</ul>
   
 <li><g-emoji class="g-emoji" alias="closed_lock_with_key" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f510.png">
   🔐
@@ -33,10 +32,11 @@
 </li>
  
  <li><g-emoji class="g-emoji" alias="closed_lock_with_key" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f510.png">
-  💞️
+  📫
   </g-emoji> 
   How to reach me => MuhammedK.Aldin@gmail.com
 </li>
+</ul>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhammedKAldin&count_private=true)
 
