@@ -45,7 +45,7 @@
 </ul>
 <p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/fba9fb3c111bb3dee611b811d3b1ea19fcb13d942b8b2bb3e43e3f44168fa728/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d637261757a65722673686f775f69636f6e733d74727565267468656d653d746f6b796f6e69676874">
   
-<img src="https://camo.githubusercontent.com/fba9fb3c111bb3dee611b811d3b1ea19fcb13d942b8b2bb3e43e3f44168fa728/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d637261757a65722673686f775f69636f6e733d74727565267468656d653d746f6b796f6e69676874" alt="Crauzer's github stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=MuhammedKAldin&amp;show_icons=true&amp;theme=tokyonight&count_private=true" style="max-width: 100%;">
+<img src="https://camo.githubusercontent.com/b9bbcbbc8d2af1fc888d5617ced02e8464d7844d802de1b52d741d3693f2e2ab/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d4d7568616d6d65644b416c64696e26636f756e745f707269766174653d74727565" alt="GitHub stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=MuhammedKAldin&amp;count_private=true" style="max-width: 100%;">
 </a>
   
 <a href="https://github.com/anuraghazra/github-readme-stats">
