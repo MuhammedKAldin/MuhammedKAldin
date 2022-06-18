@@ -2,12 +2,6 @@
 
 <ul dir="auto">
 <li><g-emoji class="g-emoji" alias="video_game" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3ae.png">
-  🌱
-  </g-emoji> 
-  I’m currently learning <b>Data Structures and Algorithms.</b>
-</li>
-  
-<li><g-emoji class="g-emoji" alias="video_game" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3ae.png">
   🎮
   </g-emoji> 
   Game development
@@ -30,18 +24,6 @@
   </g-emoji> 
   Desktop Software development
  </li>
-  
-<li><g-emoji class="g-emoji" alias="closed_lock_with_key" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f510.png">
-  🔐
-  </g-emoji> 
-  Software Reverse engineering
-</li>
-
-<li><g-emoji class="g-emoji" alias="closed_lock_with_key" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f510.png">
-  👯
-  </g-emoji> 
-  I’m looking to collaborate on <b>OpenSource Projects</b>
-</li>
  
  <li><g-emoji class="g-emoji" alias="closed_lock_with_key" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f510.png">
   📫
