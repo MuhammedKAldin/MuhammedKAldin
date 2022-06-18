@@ -44,7 +44,8 @@
 </li>
 </ul>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhammedKAldin&show_icons=true&theme=tokyonights&count_private=true)
+<img src="" width="20%" ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhammedKAldin&show_icons=true&theme=tokyonights&count_private=true) />
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammedKAldin&layout=compact&theme=tokyonights&count_private=true)
 
 <!---
