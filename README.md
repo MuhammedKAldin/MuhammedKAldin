@@ -4,7 +4,7 @@
 <li><g-emoji class="g-emoji" alias="video_game" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3ae.png">
   🎮
   </g-emoji> 
-  Game Development
+  Game development
 </li>
   
 <li><g-emoji class="g-emoji" alias="package" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e6.png">
@@ -14,15 +14,21 @@
 </li>
   
 <li><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">
+  🌐
+  </g-emoji> 
+  Web development 
+ </li>
+  
+<li><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">
   💻
   </g-emoji> 
-  Desktop / Web Software development
+  Desktop Software development
  </li>
   
 <li><g-emoji class="g-emoji" alias="closed_lock_with_key" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f510.png">
   🔐
   </g-emoji> 
-  Software Reverse Engineering
+  Software Reverse engineering
 </li>
 
 <li><g-emoji class="g-emoji" alias="closed_lock_with_key" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f510.png">
