@@ -38,11 +38,11 @@
 
 </p>
 
-## ❤ Views and Followers
+## ❤ Profile views
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=MuhammedKAldin">
 </a>
-<a href="https://github.com/MuhammedKAldin?tab=followers"><img src="https://img.shields.io/github/followers/MuhammedKAldin?label=Followers&style=social" alt="GitHub Badge"></a>
+<!-- <a href="https://github.com/MuhammedKAldin?tab=followers"><img src="https://img.shields.io/github/followers/MuhammedKAldin?label=Followers&style=social" alt="GitHub Badge"></a> -->
 
 <!---
 MuhammedKAldin/MuhammedKAldin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
