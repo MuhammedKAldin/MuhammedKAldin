@@ -1,4 +1,11 @@
-Interested in:
+<p dir="auto">Interested in:</p>
+
+<ul dir="auto">
+<li><g-emoji class="g-emoji" alias="video_game" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3ae.png">🎮</g-emoji> Game hacking</li>
+<li><g-emoji class="g-emoji" alias="package" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e6.png">📦</g-emoji> Compression</li>
+<li><g-emoji class="g-emoji" alias="closed_lock_with_key" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f510.png">🔐</g-emoji> InfoSec</li>
+<li><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> Desktop Software development</li>
+</ul>
 
 🎮 Game Development
 📦 Automation tools creation
