@@ -16,7 +16,7 @@
 <li><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">
   💻
   </g-emoji> 
-  Desktop Software development
+  Desktop / Web Software development
  </li>
   
 <li><g-emoji class="g-emoji" alias="closed_lock_with_key" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f510.png">
