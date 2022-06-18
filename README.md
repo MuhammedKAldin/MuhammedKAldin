@@ -44,9 +44,7 @@
 </li>
 </ul>
 
-<p> ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhammedKAldin&show_icons=true&theme=tokyonights&count_private=true) </p>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammedKAldin&layout=compact&theme=tokyonights&count_private=true)
+<p> ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhammedKAldin&show_icons=true&theme=tokyonight&count_private=true) </p>
 
 <!---
 MuhammedKAldin/MuhammedKAldin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
