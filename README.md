@@ -27,7 +27,7 @@
  
 </ul>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhammedKAldin&show_icons=true&theme=tokyonight&count_private=true)
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhammedKAldin&show_icons=true&theme=tokyonight&count_private=true) -->
 
 ## ❤ Connect with me:
 <p align="left">
