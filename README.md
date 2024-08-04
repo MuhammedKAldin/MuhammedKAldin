@@ -33,8 +33,11 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/mohamed-kamal-117026221/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+
+<!--
 <a href = "https://www.artstation.com/substanceshift"><img width="45px" src="https://cdn.iconscout.com/icon/free/png-128/artstation-3521283-2944702.png"/></a>
 <a href = "https://www.youtube.com/channel/UCTshwAMQrIRTUQvuhfKjZxA/videos"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+-->
 
 </p>
 
