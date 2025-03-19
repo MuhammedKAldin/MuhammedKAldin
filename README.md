@@ -27,6 +27,9 @@
  
 </ul>
 
+🔗 Portfolio
+Check out my portfolio: <a href="https://muhammedkaldin.github.io/Portfolio/"> MuhammedKaldin's Portfolio </a>
+
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhammedKAldin&show_icons=true&theme=tokyonight&count_private=true) -->
 
 ## ❤ Connect with me:
