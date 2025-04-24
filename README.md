@@ -3,11 +3,6 @@
 <p dir="auto">Interested in:</p>
 
 <ul dir="auto">
-<li><g-emoji class="g-emoji" alias="video_game" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3ae.png">
-  🎮
-  </g-emoji> 
-  Game development
-</li>
   
 <li><g-emoji class="g-emoji" alias="package" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e6.png">
   📦
@@ -26,6 +21,12 @@
   </g-emoji> 
   Desktop Software development
  </li>
+
+ <li><g-emoji class="g-emoji" alias="video_game" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3ae.png">
+  🎮
+  </g-emoji> 
+  Game development
+</li>
  
 </ul>
 
